@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://shiryaevkirill.github.io/ru/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiryaevkirill.github.io/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://shiryaevkirill.github.io/ru/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shiryaevkirill.github.io/ru/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiryaevkirill.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://shiryaevkirill.github.io/ru/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shiryaevkirill.github.io/ru/author/nelson-bighetti/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiryaevkirill.github.io/author/nelson-bighetti/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://shiryaevkirill.github.io/ru/author/nelson-bighetti/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shiryaevkirill.github.io/ru/post/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiryaevkirill.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://shiryaevkirill.github.io/ru/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shiryaevkirill.github.io/ru/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiryaevkirill.github.io/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://shiryaevkirill.github.io/ru/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shiryaevkirill.github.io/ru/publication/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiryaevkirill.github.io/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://shiryaevkirill.github.io/ru/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shiryaevkirill.github.io/ru/talk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiryaevkirill.github.io/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://shiryaevkirill.github.io/ru/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shiryaevkirill.github.io/ru/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiryaevkirill.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://shiryaevkirill.github.io/ru/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shiryaevkirill.github.io/ru/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiryaevkirill.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://shiryaevkirill.github.io/ru/"
+                />
+  </url>
+  
+</urlset>
