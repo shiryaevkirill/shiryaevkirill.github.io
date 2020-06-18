@@ -3,6 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://shiryaevkirill.github.io/ru/post/</loc>
+    <lastmod>2020-05-23T21:16:04+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiryaevkirill.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://shiryaevkirill.github.io/ru/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shiryaevkirill.github.io/ru/</loc>
+    <lastmod>2020-05-23T21:16:04+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiryaevkirill.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://shiryaevkirill.github.io/ru/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shiryaevkirill.github.io/ru/post/hellopost/</loc>
+    <lastmod>2020-05-23T21:16:04+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiryaevkirill.github.io/post/hellopost/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://shiryaevkirill.github.io/ru/post/hellopost/"
+                />
+  </url>
+  
+  <url>
     <loc>https://shiryaevkirill.github.io/ru/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -27,34 +72,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://shiryaevkirill.github.io/ru/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://shiryaevkirill.github.io/ru/author/nelson-bighetti/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiryaevkirill.github.io/author/kirill-shiryaev/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://shiryaevkirill.github.io/ru/author/nelson-bighetti/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://shiryaevkirill.github.io/ru/post/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiryaevkirill.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://shiryaevkirill.github.io/ru/post/"
                 />
   </url>
   
@@ -115,16 +132,16 @@
   </url>
   
   <url>
-    <loc>https://shiryaevkirill.github.io/ru/</loc>
+    <loc>https://shiryaevkirill.github.io/ru/author/%D0%BA%D0%B8%D1%80%D0%B8%D0%BB%D0%BB-%D1%88%D0%B8%D1%80%D1%8F%D0%B5%D0%B2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shiryaevkirill.github.io/"
+                href="https://shiryaevkirill.github.io/author/kirill-shiryaev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://shiryaevkirill.github.io/ru/"
+                href="https://shiryaevkirill.github.io/ru/author/%D0%BA%D0%B8%D1%80%D0%B8%D0%BB%D0%BB-%D1%88%D0%B8%D1%80%D1%8F%D0%B5%D0%B2/"
                 />
   </url>
   
