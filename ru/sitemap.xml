@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://shiryaevkirill.github.io/ru/post/hellopost/</loc>
+    <lastmod>2020-05-23T21:16:04+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiryaevkirill.github.io/post/hellopost/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://shiryaevkirill.github.io/ru/post/hellopost/"
+                />
+  </url>
+  
+  <url>
     <loc>https://shiryaevkirill.github.io/ru/post/</loc>
     <lastmod>2020-05-23T21:16:04+03:00</lastmod>
     <xhtml:link
@@ -29,21 +44,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://shiryaevkirill.github.io/ru/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://shiryaevkirill.github.io/ru/post/hellopost/</loc>
-    <lastmod>2020-05-23T21:16:04+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiryaevkirill.github.io/post/hellopost/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://shiryaevkirill.github.io/ru/post/hellopost/"
                 />
   </url>
   
